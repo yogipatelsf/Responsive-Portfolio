@@ -333,11 +333,18 @@ input[type="submit"] {
         height: auto;
         padding-bottom: 20px;   
     }
+
+    .about_me {
+        margin: 150px 0px 0px 150px;
+        width: 28%;
+        height: auto;
+        padding-bottom: 20px;   
+    }
     .connect_me {
         margin: 150px 0px 0px 120px;
     }
     .push {
-        height: 1320px;
+        height: 1360px;
     }
     .navbar_name {
         margin-left: 150px;
@@ -363,6 +370,13 @@ input[type="submit"] {
         top: 807px;
         left: 11px;
     }
+
+    #Yogi {
+        height: 270px;
+        width: 270px;
+        padding: 1%;
+        margin: 5px 0px 5px 0px;
+    }
     h2 {
         text-align: center;
     }
@@ -377,12 +391,19 @@ input[type="submit"] {
         width: 83%;
         margin: 150px 0px 0px 50px;
     }
+
+      .about_me {
+        width: 83%;
+        margin: 150px 0px 0px 50px;
+        height: 620px;
+    }
+
     .connect_me {
-        margin: 50px 0px 0px 0px;
+        margin: 90px 0px 0px 0px;
         width: 96%;
     }
     .push {
-        height: 1150px;
+        height: 1110px;
     }
     .navbar_name {
         margin-left: 60px;
@@ -412,6 +433,13 @@ input[type="submit"] {
         left: 327px;
 }
 
+    #Yogi {
+        padding: 1%;
+        margin: 5px 5px 5px 0px;
+    }
+p {
+    line-height: 170%;
+}
 @media only screen and (max-width: 640px) {
       .container {
         width: 100%;
@@ -419,6 +447,13 @@ input[type="submit"] {
         .Portfolio {
     margin-top: 130px;
     margin-left: 40px;
+
+    }
+
+       .about_me {
+    margin-top: 130px;
+    margin-left: 40px;
+    height: auto;
 
     }
     .push {
@@ -473,6 +508,16 @@ input[type="submit"] {
         width: 375px;
 }
 
+  #Yogi {
+        height: 370px;
+        width: 370px;
+        margin-left: 55px;
+        padding: 5%;
+
+    }
+p {
+    line-height: 150%;
+}
     h1 {
         font-size: 35px;
     }
