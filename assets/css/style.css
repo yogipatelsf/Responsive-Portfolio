@@ -417,24 +417,66 @@ input[type="submit"] {
         width: 100%;
     }
         .Portfolio {
-    margin-top: 150px;
+    margin-top: 130px;
+    margin-left: 40px;
 
     }
-    .connect_me {
-        margin: 50px 0px 0px 230px;
-    }
     .push {
-        height: 1150px;
+        height: 2010px;
     }
     .navbar_name {
-        margin-left: 60px;
+        margin-left: 0px;
         position: static;
+        width: 100%;
     }
     .navbar_menu {
         width: 100%;
+        padding-left: 0px;
+        left: 0px;
+        padding-right: 0px;
+        margin-right: 0px;
+        right: 0px;
+        text-align: center;
+        background: #ffffff40;
+        padding-bottom: 0px;
+        height: 50px;
 
     }
     #Placeholder {
         float: none;
+        height: 300px;
+        width: 375px;
+    }
+    .box {
+        text-align: center;
+        margin-left: 0px;
+    }
+
+        #portfolio-link {
+        top: 251px;
+        left: 78px;
+        width: 375px;
+    }
+    #portfolio-link2 {
+        top: 251px;
+        left: 78px;
+        width: 375px;
+    }
+    #portfolio-link1 {
+         top: 251px;
+        left: 78px;
+        width: 375px;
+    }
+    #portfolio-link3 {
+         top: 251px;
+        left: 78px;
+        width: 375px;
+}
+
+    h1 {
+        font-size: 35px;
+    }
+    h2 {
+        font-size: 40px;
     }
 }
