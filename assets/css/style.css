@@ -333,6 +333,12 @@ input[type="submit"] {
         height: auto;
         padding-bottom: 20px;   
     }
+  .Contact {
+        margin: 150px 0px 0px 150px;
+        width: 28%;
+        height: auto;
+        padding-bottom: 20px;   
+    }
 
     .about_me {
         margin: 150px 0px 0px 150px;
@@ -398,6 +404,11 @@ input[type="submit"] {
         height: 620px;
     }
 
+      .Contact {
+        width: 83%;
+        margin: 150px 0px 0px 50px;
+    }
+
     .connect_me {
         margin: 90px 0px 0px 0px;
         width: 96%;
@@ -447,10 +458,17 @@ p {
         .Portfolio {
     margin-top: 130px;
     margin-left: 40px;
-
+    height: auto;
     }
 
        .about_me {
+    margin-top: 130px;
+    margin-left: 40px;
+    height: auto;
+
+    }
+
+        .Contact {
     margin-top: 130px;
     margin-left: 40px;
     height: auto;
